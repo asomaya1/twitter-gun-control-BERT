@@ -1,7 +1,7 @@
 The files in this folder are separated based on the part of the project they were focused on. Below you can find a brief description of each file’s purpose:
 
 -Data_Loading
-	Data is scraped using Tweet ID’s using the Twitter API and saved to a csv file
+	Data is scraped using Tweet ID’s using the Twitter API and saved to a csv file//
 
 -Data_Cleaning
 	Data is loaded and text preprocessing is performed
